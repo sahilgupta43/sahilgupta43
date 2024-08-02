@@ -15,9 +15,10 @@
 - Innovative Tech Solutions with TriadTechFusion
 
 ## 📫 How to reach me:
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [GitHub](https://github.com/sahilgupta43)
+- [LinkedIn](https://www.linkedin.com/in/sahil-gupta-44294b2b2/)
+- [Facebook](https://facebook.com/sahilgupta.np)
+- [Instagram](https://instagram.com/sahilgupta43_)
 
 ## 😄 Pronouns:
 - He/Him
